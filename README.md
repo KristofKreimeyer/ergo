@@ -16,4 +16,5 @@ Weitere Benutzer legt die Chefin unter „Benutzer“ an. Tests: `npm test`, Typ
 
 ## Stand
 
-- Schritt 2: Login, Rollen (Mitarbeiter/in, Chefin), Benutzerverwaltung. Der Kalender ist noch ein Platzhalter.
+- Schritt 2: Login, Rollen (Mitarbeiter/in, Chefin), Benutzerverwaltung.
+- Schritt 3: Kalender (Woche/Tag, am Handy als Liste), Termine anlegen/ändern/löschen, Haken „Bericht geschrieben“, Liste „Berichte offen“, Personenfilter für die Chefin.
